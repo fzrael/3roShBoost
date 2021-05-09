@@ -2,12 +2,12 @@
   
 title clear Temp file GitHub:@FzRaeL
 
-timeout /t 1 /nobreak
+timeout /t 5 /nobreak
 del /s /f /q c:\windows\temp\*.*
 rd /s /q c:\windows\temp
 del /s /f /q %temp%\*.*
 rd /s /q %temp%
-timeout /t 1 /nobreak
+timeout /t 5 /nobreak
 
 echo.
 echo The files have been cleaned up....
