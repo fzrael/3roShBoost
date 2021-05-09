@@ -7,6 +7,7 @@
 </div>
 
 <font color="red">اداة تنظف لك ملفات المؤقتة الي مالها فايدة</font>
+
 ```diff
 
 @@ Cleaning tool for you temporary files that are not useful (and bold) @@
