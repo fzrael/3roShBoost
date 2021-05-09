@@ -9,8 +9,8 @@
 
 ```diff
 
-@@ Cleaning tool for you temporary files that are not useful (and bold)@@
-@@ اداة تنظف لك ملفات المؤقتة الي مالها فايدة (and bold)@@
+@@ Cleaning tool for you temporary files that are not useful (and bold) @@
+@@ اداة تنظف لك ملفات المؤقتة الي مالها فايدة (and bold) @@
 
 ```
 
