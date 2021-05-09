@@ -7,7 +7,7 @@
 </div>
 
 
-### نبذه عن الأداة 
+### نبذه عن الأداة - 
 ```diff
 
 - Cleaning tool for you temporary files that are not useful 
